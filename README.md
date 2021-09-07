@@ -1,2 +1,2 @@
-# manchester_convert
-manchester encoding
+# Manchester_convert
+Manchester encoding
